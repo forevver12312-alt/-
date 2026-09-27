@@ -1,0 +1,6 @@
+{
+  "name": "نور الإيمان - القرآن الكريم والأذكار بدون إنترنت",
+  "description": "تطبيق شامل للقرآن الكريم، أذكار الصباح والمساء، أدعية السفر وجميع الأدعية اليومية والسبحة الإلكترونية يعمل كاملاً بدون إنترنت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
